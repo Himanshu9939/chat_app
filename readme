@@ -1,0 +1,7 @@
+For Local Setup 
+ - make an venv(virtual environment) and install requirement.txt file.
+ - run cmd - python manage.py runserver ( make sure you have python installed      already in the system with version 3.9+)
+ - just try to open localhost:8000 in chrome and you are able to see a frontend. where you are ask your questions.
+
+
+ 
