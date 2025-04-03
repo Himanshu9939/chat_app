@@ -4,4 +4,4 @@ For Local Setup
  - just try to open localhost:8000 in chrome and you are able to see a frontend. where you are ask your questions.
 
 
- 
+ make allowed host as empty from setting.py while running it in local.
